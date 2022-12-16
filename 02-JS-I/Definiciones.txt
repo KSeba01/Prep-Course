@@ -1,0 +1,12 @@
+
+
+
+variables : se usan como cajas donde podes almacenar cosas 
+
+strings : es el texto o numero que van a ver todos 
+
+funciones ( argumentos return) : se usa en las funciones para detenr por completo la misma y ejecutar lo que el "return" diga 
+
+declaraciones "if" : el if sirve para hacer preguntas especificas de lo que sea el programa 
+
+valores booleanos( true, false) : en principio sirve como un verdadero o falso simplemente 
