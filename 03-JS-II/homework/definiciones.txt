@@ -1,0 +1,10 @@
+Definiciones: 
+
+for: for se usa para crear un bucle y definir cuantas veces se va a repetir y el como 
+
+&&: se usa para añadir a una funcion otro valor, osea, tiene que pasar "esto" && (Y) "esto" 
+
+||: se usa para decir en una funcion que si no pasa una cosa para q se cumpla tiene que pasar esta otra,
+    osea, "esto es real" || (O) "esto es real" para que se cumpla
+
+!: basicamente es un no 
